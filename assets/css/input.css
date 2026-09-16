@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Production entry point. The demo uses the Tailwind CDN; compile this file when moving to a build pipeline. */
